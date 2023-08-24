@@ -1,0 +1,58 @@
+.w {
+    color: blue;
+    font-family: serif;
+    font-size:30px;
+    background-color: lightsteelblue;
+    padding:50px;
+    max-height: 300px;
+    max-width: 70%;
+}
+
+h1 {
+    font-family: cursive;
+    font-weight: 400;
+    background-color: azure;
+    border-color: blue;
+    max-width: 70%;
+}
+head {
+    align-content: center;
+    font-family: fantasy;
+    border-color: darkmagenta;
+    color:darkgreen;
+    max-width: 70%;
+}
+.cute {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+h2 {
+    background-color: cadetblue;
+    color:azure;
+    font-size: 30;
+    max-width: 70%;
+    font-weight: 300;
+    
+}
+
+ol {
+    background-color: ghostwhite;
+    max-width: 70%;
+    
+}
+.artbackground {
+    background-size:cover;
+    background-image:url(esben.art.jpg);
+    
+}
+
+.lakebackground {
+    background-size: cover;
+    background-image: url(e.lake.jpg);
+}
+
+.teabackground {
+    background-size: cover;
+    background-image: url(e.art.tea.jpg);
+}
